@@ -1,0 +1,8 @@
+﻿  Point.cpp
+C:\Users\pavel\source\repos\Template class Point\Template class Point\Point.cpp(22,11): warning C4552: '-': result of expression not used
+C:\Users\pavel\source\repos\Template class Point\Template class Point\Point.cpp(23,11): warning C4552: '-': result of expression not used
+C:\Users\pavel\source\repos\Template class Point\Template class Point\Point.cpp(29,10): warning C4552: '*': result of expression not used
+C:\Users\pavel\source\repos\Template class Point\Template class Point\Point.cpp(30,10): warning C4552: '*': result of expression not used
+  Source.cpp
+  Generating Code...
+  Template class Point.vcxproj -> C:\Users\pavel\source\repos\Template class Point\Debug\Template class Point.exe
