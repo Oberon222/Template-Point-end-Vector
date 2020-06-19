@@ -11,7 +11,7 @@ int main() {
 
 	Point p1(4, 7);
 	Point p2(2, 8);	
-	p1.operator++();
+	p1++;
 	p1.Print();
 
 

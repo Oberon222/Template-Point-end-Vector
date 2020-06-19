@@ -10,16 +10,16 @@ void Point::Print() const
 
 Point Point::operator++()
 {
-		this->x + 1;
-		this->y + 1;
+		this->x++;
+		this->y++;
 
 	return *this;
 }
 
 Point Point::operator--()
 {
-		this->x - 1;
-		this->y - 1;
+		this->x--;
+		this->y--;
 	return *this;
 }
 
